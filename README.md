@@ -2,7 +2,7 @@
 
 ## Description
 
-A website designed to allow users to browse for laptops, manage the cart and reach the store.
+A website designed to allow users to browse laptops, manage the cart and reach the store.
 
 ## Technologies Used
 - HTML
