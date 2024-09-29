@@ -1,0 +1,3818 @@
+[
+    {
+        "brand": "Lenovo",
+        "description": "Great for work and gaming.",
+        "price": 853.21,
+        "quantity": 5
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    },
+    {
+        "brand": "Dell",
+        "description": "Lightweight and portable design.",
+        "price": 1536.67,
+        "quantity": 4
+    },
+    {
+        "brand": "Apple",
+        "description": "High-performance laptop for professionals.",
+        "price": 1831.49,
+        "quantity": 10
+    },
+    {
+        "brand": "HP",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1101.78,
+        "quantity": 16
+    },
+    {
+        "brand": "Asus",
+        "description": "Lightweight and portable design.",
+        "price": 1085.63,
+        "quantity": 11
+    },
+    {
+        "brand": "Apple",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1357.94,
+        "quantity": 19
+    },
+    {
+        "brand": "Dell",
+        "description": "High-performance laptop for professionals.",
+        "price": 1506.07,
+        "quantity": 8
+    },
+    {
+        "brand": "Lenovo",
+        "description": "Budget-friendly option with decent specs.",
+        "price": 1232.12,
+        "quantity": 3
+    },
+    {
+        "brand": "HP",
+        "description": "Great for work and gaming.",
+        "price": 1548.28,
+        "quantity": 6
+    },
+    {
+        "brand": "Asus",
+        "description": "Powerful laptop with advanced features.",
+        "price": 1057.12,
+        "quantity": 13
+    }
+]

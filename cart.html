@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart</title>
+    <link rel="icon" href="Images/icon.png">
+    <link rel="stylesheet" href="style.css">
+    <script src="code.js"></script>
+    <script src="https://kit.fontawesome.com/5af6ee84d8.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <header>
+        <i id="sideMenuButton" class="fa-sharp fa-solid fa-bars"></i>
+        <img src="Images/Logo.png" alt="Our Logo!" />
+        <a href="products.html"><i id="productsListButton" class="fa-solid fa-laptop"></i></a>
+        <nav id="sideNav" class="sideNavClosed">
+            <a href="index.html">
+                <div class="navCell">
+                    <h1>Home</h1>
+                    <i class="fa-solid fa-caret-right"></i>
+                </div>
+            </a>
+            <a href="products.html">
+                <div class="navCell">
+                    <h1>Products</h1>
+                    <i class="fa-solid fa-caret-right"></i>
+                </div>
+            </a>
+            <a href="cart.html" class="active">
+                <div class="navCell">
+                    <h1>Cart</h1>
+                    <i class="fa-solid fa-caret-right"></i>
+                </div>
+            </a>
+            <a href="loginPage.html">
+                <div class="navCell">
+                    <h1>Login</h1>
+                    <i class="fa-solid fa-caret-right"></i>
+                </div>
+            </a>
+            <a href="register.html">
+                <div class="navCell">
+                    <h1>Register</h1>
+                    <i class="fa-solid fa-caret-right"></i>
+                </div>
+            </a>
+            <div id="contactContainer" class="navCell">
+                <h1>Contact</h1>
+                <i class="fa-solid fa-caret-down"></i>
+            </div>
+            <div id="contactList" class="hidden">
+                <div>
+                    <i class="fa-solid fa-phone"></i>
+                    <h3><a href="tel:+9611550500">+961 1 550 500</a></h3>
+                </div>
+                <div>
+                    <i class="fa-brands fa-whatsapp"></i>
+                    <h3><a href="https://wa.me/71222667?text=Hello%21" target="_blank">Whatsapp</a></h3>
+                </div>
+                <div>
+                    <i class="fa-solid fa-location-dot"></i>
+                    <h3><a href="https://maps.app.goo.gl/WgA6DhKFq2XRFCez5" target="_blank">Location</a></h3>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!--Displayed when the cart is empty.-->
+    <div class="empty" id="emptyCart">Your cart is empty.</div>
+
+    <section class="mainContent">
+        <div>
+            <table class="cartTable" id="table">
+                <tr>
+                    <th>#</th>
+                    <th>Brand Name</th>
+                    <th>Description</th>
+                    <th>Price ($)</th>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <button id="clearCart">Clear Cart</button>
+            <button id="removeItem">Remove Item</button>
+            <select id="selectedItems">
+                <option>--Choose Item--</option>
+            </select>
+        </div>
+    </section>
+
+    <footer>
+        <p>Tel: <a href="tel:+9611550500">+961 1 550 500</a></p>
+        <p>Bldg. 5922,<br>Michel Zakhour Street, Behind Ministry Of Labor,<br>Baabda, Lebanon.</p>
+        <div id="socialMedia">
+            <a href="https://www.facebook.com/ayoubcomputers/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://www.instagram.com/ayoubcomputers/?hl=en" target="_blank"><i
+                    class="fa-brands fa-instagram"></i></a>
+            <a href="inkedin.com/company/ayoub-computers/?originalSubdomain=lb" target="_blank"><i
+                    class="fa-brands fa-linkedin"></i></a>
+        </div>
+    </footer>
+
+</body>
+
+</html>
